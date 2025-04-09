@@ -6,7 +6,7 @@
 #include "GameFramework/Character.h"
 #include "APlayerCharacter.generated.h"
 
-UCLASS()
+UCLASS(config=Game)
 class UE55TUTORIAL_API AAPlayerCharacter : public ACharacter {
     GENERATED_BODY()
 

@@ -1,57 +1,73 @@
 [
 	{
-		"file": "C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\ue55tutorial\\Source\\ue55tutorial\\ue55tutorial.Build.cs",
+		"file": "C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\Source\\ue55tutorial\\APlayerCharacter.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\ue55tutorial\\.vscode\\compileCommands_Default\\ue55tutorial.1.rsp"
+			"@C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\.vscode\\compileCommands_Default\\ue55tutorial.1.rsp"
 		],
 		"directory": "C:\\UE_5.5\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\ue55tutorial\\Source\\ue55tutorial\\ue55tutorial.cpp",
+		"file": "C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\Source\\ue55tutorial\\APlayerCharacter.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\ue55tutorial\\.vscode\\compileCommands_Default\\ue55tutorial.1.rsp"
+			"@C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\.vscode\\compileCommands_Default\\ue55tutorial.1.rsp"
 		],
 		"directory": "C:\\UE_5.5\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\ue55tutorial\\Source\\ue55tutorial\\ue55tutorial.h",
+		"file": "C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\Source\\ue55tutorial\\ue55tutorial.Build.cs",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\ue55tutorial\\.vscode\\compileCommands_Default\\ue55tutorial.1.rsp"
+			"@C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\.vscode\\compileCommands_Default\\ue55tutorial.1.rsp"
 		],
 		"directory": "C:\\UE_5.5\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\ue55tutorial\\Source\\ue55tutorial\\ue55tutorialCharacter.cpp",
+		"file": "C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\Source\\ue55tutorial\\ue55tutorial.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\ue55tutorial\\.vscode\\compileCommands_Default\\ue55tutorial.1.rsp"
+			"@C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\.vscode\\compileCommands_Default\\ue55tutorial.1.rsp"
 		],
 		"directory": "C:\\UE_5.5\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\ue55tutorial\\Source\\ue55tutorial\\ue55tutorialCharacter.h",
+		"file": "C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\Source\\ue55tutorial\\ue55tutorial.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\ue55tutorial\\.vscode\\compileCommands_Default\\ue55tutorial.1.rsp"
+			"@C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\.vscode\\compileCommands_Default\\ue55tutorial.1.rsp"
 		],
 		"directory": "C:\\UE_5.5\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\ue55tutorial\\Source\\ue55tutorial\\ue55tutorialGameMode.cpp",
+		"file": "C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\Source\\ue55tutorial\\ue55tutorialCharacter.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\ue55tutorial\\.vscode\\compileCommands_Default\\ue55tutorial.1.rsp"
+			"@C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\.vscode\\compileCommands_Default\\ue55tutorial.1.rsp"
 		],
 		"directory": "C:\\UE_5.5\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\ue55tutorial\\Source\\ue55tutorial\\ue55tutorialGameMode.h",
+		"file": "C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\Source\\ue55tutorial\\ue55tutorialCharacter.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\ue55tutorial\\.vscode\\compileCommands_Default\\ue55tutorial.1.rsp"
+			"@C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\.vscode\\compileCommands_Default\\ue55tutorial.1.rsp"
+		],
+		"directory": "C:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\Source\\ue55tutorial\\ue55tutorialGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\.vscode\\compileCommands_Default\\ue55tutorial.1.rsp"
+		],
+		"directory": "C:\\UE_5.5\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\Source\\ue55tutorial\\ue55tutorialGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Kelson\\Documents\\Tutorials\\ue55Tutorial\\.vscode\\compileCommands_Default\\ue55tutorial.1.rsp"
 		],
 		"directory": "C:\\UE_5.5\\Engine\\Source"
 	}

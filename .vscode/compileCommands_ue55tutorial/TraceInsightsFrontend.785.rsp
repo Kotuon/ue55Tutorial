@@ -1,5 +1,5 @@
 /FI "C:\UE_5.5\Engine\Intermediate\Build\Win64\x64\UnrealEditor\Development\TraceInsightsFrontend\Definitions.TraceInsightsFrontend.h" 
-/FI "C:\Users\Kelson\Documents\Tutorials\ue55Tutorial\ue55tutorial\Intermediate\Build\Win64\x64\ue55tutorialEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h" 
+/FI "C:\Users\Kelson\Documents\Tutorials\ue55Tutorial\Intermediate\Build\Win64\x64\ue55tutorialEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h" 
 /I "C:\UE_5.5\Engine\Source" 
 /I "C:\UE_5.5\Engine\Source\Developer\TraceInsightsFrontend\Private" 
 /I "C:\UE_5.5\Engine\Intermediate\Build\Win64\UnrealEditor\Inc\Engine\UHT" 
